@@ -4,6 +4,8 @@
 
 ResearchClaw is an emerging ecosystem of AI-powered research assistants, autonomous paper-writing pipelines, and scientific workflow tools. This list covers the core projects, extensions, related tools, and learning resources.
 
+👉 For hands-on experience reports and evaluation scores, check out the [Research Claw Arena](https://sustech-genai.github.io/research-claw-arena/).
+
 [中文](README_zh.md)
 
 ## Contents

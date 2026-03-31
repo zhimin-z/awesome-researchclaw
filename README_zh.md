@@ -4,6 +4,8 @@
 
 ResearchClaw 是一个新兴的 AI 科研助手生态系统，涵盖自主论文写作流水线和科研工作流工具。本列表收录了核心项目、扩展、相关工具和学习资源。
 
+👉 如果想看具体的体验，可参考该项目的[开源项目体验报告以及评测打分](https://sustech-genai.github.io/research-claw-arena/)。
+
 [English](README.md)
 
 ## 目录
