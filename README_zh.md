@@ -13,12 +13,6 @@ ResearchClaw 是一个新兴的 AI 科研助手生态系统，涵盖自主论文
 - [科研助手与工作流工具](#科研助手与工作流工具)
 - [OpenClaw 生态](#openclaw-生态)
 - [技能与插件](#技能与插件)
-- [渠道与集成](#渠道与集成)
-- [文献检索与发现](#文献检索与发现)
-- [引用与文献管理](#引用与文献管理)
-- [实验追踪与可复现性](#实验追踪与可复现性)
-- [LaTeX 与写作工具](#latex-与写作工具)
-- [数据源与 API](#数据源与-api)
 - [社区与学习](#社区与学习)
 - [相关 Awesome 列表](#相关-awesome-列表)
 
@@ -51,10 +45,7 @@ ResearchClaw 生态的基础项目。
 - [ResearchClaw](https://github.com/ymx10086/ResearchClaw) — 完整的 Research OS，含声明/证据图谱、实验追踪、工作流阶段、项目仪表板。
 - [Elicit](https://elicit.com/) — AI 科研助手；自动化文献综述、系统综述、数据提取。
 - [Consensus](https://consensus.app/) — AI 搜索引擎，直接从研究论文中发现洞察。
-- [Jenni AI](https://jenni.ai/) — AI 学术写作助手，支持文内引用、PDF 分析、2,600+ 引用格式。
 - [ResearchRabbit](https://www.researchrabbit.ai/) — "科研版 Spotify"——基于集合的论文发现与 AI 推荐。
-- [Scite AI](https://scite.ai/) — 智能引用分析：查看论文被如何引用（支持、反对、提及）。
-- [Perplexity AI](https://www.perplexity.ai/) — AI 搜索引擎，提供有来源支撑的回答；适合初步研究探索。
 
 ## OpenClaw 生态
 
@@ -90,74 +81,6 @@ OpenClaw 大生态中与 ResearchClaw 互补的项目和工具。
 - **FigureAgent** — 5-Agent 流水线：规划 → 代码生成 → 渲染 → 评审 → 集成
 - **Sentinel Watchdog** — 后台质量监控：NaN/Inf 检测、引用评分、反造假
 
-## 渠道与集成
-
-将 ResearchClaw 连接到消息平台和协作工具。
-
-- [LangBot](https://github.com/langbot-app/LangBot) — 多平台 IM 机器人：Discord、Slack、Telegram、微信、飞书、钉钉、QQ——集成 OpenClaw。
-- [openclaw-wechat](https://github.com/freestylefly/openclaw-wechat) — OpenClaw 微信集成。
-- [wecom-openclaw-plugin](https://github.com/11haonb/wecom-openclaw-plugin) — 企业微信渠道集成。
-- [openclaw-waha-plugin](https://github.com/omernesh/openclaw-waha-plugin) — 基于 WAHA 的 WhatsApp 渠道插件。
-- [openclaw-kakao-talkchannel-plugin](https://github.com/kakao-bart-lee/openclaw-kakao-talkchannel-plugin) — KakaoTalk 渠道插件。
-- [openclaw-channel-plugin-ztm](https://github.com/clawparty-ai/openclaw-channel-plugin-ztm) — ZTM（零信任网格）P2P 消息渠道。
-
-## 文献检索与发现
-
-用于查找和发现学术论文的工具和 API。
-
-- [Semantic Scholar](https://www.semanticscholar.org/) — AI 驱动的学术搜索引擎；提供免费 API。
-- [OpenAlex](https://openalex.org/) — 全球学术论文、作者和机构的开放目录。
-- [arXiv](https://arxiv.org/) — STEM 领域开放获取预印本仓库。
-- [Connected Papers](https://www.connectedpapers.com/) — 基于种子论文的可视化关联图谱。
-- [Inciteful](https://inciteful.xyz/) — 引用网络分析，用于文献探索。
-- [Litmaps](https://www.litmaps.com/) — 交互式引用地图，用于文献综述。
-- [Google Scholar](https://scholar.google.com/) — 广泛的学术文献搜索。
-- [PubMed](https://pubmed.ncbi.nlm.nih.gov/) — 生物医学和生命科学文献数据库。
-- [Publish or Perish](https://harzing.com/resources/publish-or-perish) — 免费桌面工具，从 Google Scholar 进行引用分析。
-- [Scholarly](https://pypi.org/project/scholarly/) — Google Scholar 抓取的 Python 库。
-
-## 引用与文献管理
-
-管理参考文献、引用和参考书目的工具。
-
-- [Zotero](https://www.zotero.org/) — 免费开源文献管理器，支持浏览器集成。
-- [Mendeley](https://www.mendeley.com/) — 带学术社交网络功能的文献管理器。
-- [EndNote](https://endnote.com/) — 专业文献管理工具。
-- [CrossRef](https://www.crossref.org/) — DOI 注册和元数据检索。
-- [DataCite](https://datacite.org/) — 研究数据的 DOI 注册。
-
-## 实验追踪与可复现性
-
-追踪实验、管理结果和确保可复现性的工具。
-
-- [MLflow](https://mlflow.org/) — ML 生命周期的开源平台。
-- [Weights & Biases](https://wandb.ai/) — ML 实验追踪、数据集版本管理、模型管理。
-- [DVC](https://dvc.org/) — ML 项目的数据版本控制。
-- [Papers with Code](https://paperswithcode.com/) — 关联论文、代码、数据集和基准的免费资源。
-
-## LaTeX 与写作工具
-
-学术写作、LaTeX 编译和文档准备工具。
-
-- [Overleaf](https://www.overleaf.com/) — 协作式在线 LaTeX 编辑器。
-- [LaTeX Workshop (VS Code)](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop) — VS Code 的全功能 LaTeX 扩展。
-- [Writefull](https://www.writefull.com/) — AI 驱动的学术写作反馈工具。
-- [Grammarly](https://www.grammarly.com/) — 语法、清晰度和语气建议的写作助手。
-
-## 数据源与 API
-
-ResearchClaw 用于文献和引用数据的 API 和数据源。
-
-| 数据源 | 类型 | 访问方式 |
-|--------|------|----------|
-| [OpenAlex API](https://docs.openalex.org/) | 学术元数据 | 免费、开放 |
-| [Semantic Scholar API](https://api.semanticscholar.org/) | 论文搜索与引用 | 免费（限速） |
-| [arXiv API](https://info.arxiv.org/help/api/) | 预印本 | 免费、开放 |
-| [CrossRef API](https://www.crossref.org/documentation/retrieve-metadata/) | DOI 元数据 | 免费（礼貌池） |
-| [DataCite API](https://support.datacite.org/docs/api) | 研究数据 DOI | 免费 |
-| [PubMed API (E-utilities)](https://www.ncbi.nlm.nih.gov/books/NBK25501/) | 生物医学文献 | 免费 |
-| [CORE API](https://core.ac.uk/services/api) | 开放获取论文 | 免费 |
-
 ## 社区与学习
 
 关于 AI 驱动科研和 ResearchClaw 生态的学习资源。
@@ -176,16 +99,12 @@ ResearchClaw 用于文献和引用数据的 API 和数据源。
 ### 精选列表
 
 - [Awesome AI Research Writing](https://github.com/Leey21/awesome-ai-research-writing) — AI 科研写作资源和工具精选。
-- [Awesome Scientific Writing](https://github.com/writing-resources/awesome-scientific-writing) — 使用 Markdown、reStructuredText 和 Jupyter 的无干扰科学写作。
 - [Awesome Research](https://github.com/emptymalei/awesome-research) — 涵盖笔记、写作、演示等的研究工具。
 
 ## 相关 Awesome 列表
 
 - [Awesome Claws](https://github.com/LHL3341/awesome-claws) — OpenClaw 相关产品、技能、社区。
 - [Awesome Research](https://github.com/emptymalei/awesome-research) — 通用研究工具。
-- [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) — 深度学习资源。
-- [Awesome Generative AI](https://github.com/steven2358/awesome-generative-ai) — 生成式 AI 工具和资源。
-- [Papers We Love](https://github.com/papers-we-love/papers-we-love) — CS 社区值得阅读和讨论的论文。
 
 ---
 

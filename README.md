@@ -13,12 +13,6 @@ ResearchClaw is an emerging ecosystem of AI-powered research assistants, autonom
 - [Research Assistants & Workflow Tools](#research-assistants--workflow-tools)
 - [OpenClaw Ecosystem](#openclaw-ecosystem)
 - [Skills & Plugins](#skills--plugins)
-- [Channels & Integrations](#channels--integrations)
-- [Literature Search & Discovery](#literature-search--discovery)
-- [Citation & Reference Management](#citation--reference-management)
-- [Experiment Tracking & Reproducibility](#experiment-tracking--reproducibility)
-- [LaTeX & Writing Tools](#latex--writing-tools)
-- [Data Sources & APIs](#data-sources--apis)
 - [Community & Learning](#community--learning)
 - [Related Awesome Lists](#related-awesome-lists)
 
@@ -51,10 +45,7 @@ Interactive assistants and tools that help researchers throughout their workflow
 - [ResearchClaw](https://github.com/ymx10086/ResearchClaw) — Full research OS with claim/evidence graph, experiment tracking, workflow stages, and project dashboards.
 - [Elicit](https://elicit.com/) — AI research assistant; automates literature reviews, systematic reviews, data extraction.
 - [Consensus](https://consensus.app/) — AI search engine that finds insights directly from research papers.
-- [Jenni AI](https://jenni.ai/) — AI academic writing assistant with in-text citations, PDF analysis, and 2,600+ citation styles.
 - [ResearchRabbit](https://www.researchrabbit.ai/) — "Spotify for research" — collection-based paper discovery with AI recommendations.
-- [Scite AI](https://scite.ai/) — Smart Citation analysis: see how papers have been cited (supporting, contrasting, mentioning).
-- [Perplexity AI](https://www.perplexity.ai/) — AI-powered search engine with source-backed answers; useful for initial research exploration.
 
 ## OpenClaw Ecosystem
 
@@ -90,74 +81,6 @@ Reusable skills and plugins that extend ResearchClaw capabilities.
 - **FigureAgent** — 5-agent pipeline: Planner → CodeGen → Renderer → Critic → Integrator
 - **Sentinel Watchdog** — Background quality monitor: NaN/Inf detection, citation scoring, anti-fabrication
 
-## Channels & Integrations
-
-Connect ResearchClaw to messaging platforms and collaboration tools.
-
-- [LangBot](https://github.com/langbot-app/LangBot) — Multi-platform IM bot: Discord, Slack, Telegram, WeChat, Feishu, DingTalk, QQ — integrates with OpenClaw.
-- [openclaw-wechat](https://github.com/freestylefly/openclaw-wechat) — WeChat integration for OpenClaw.
-- [wecom-openclaw-plugin](https://github.com/11haonb/wecom-openclaw-plugin) — Enterprise WeCom channel integration.
-- [openclaw-waha-plugin](https://github.com/omernesh/openclaw-waha-plugin) — WhatsApp channel plugin via WAHA.
-- [openclaw-kakao-talkchannel-plugin](https://github.com/kakao-bart-lee/openclaw-kakao-talkchannel-plugin) — KakaoTalk channel plugin.
-- [openclaw-channel-plugin-ztm](https://github.com/clawparty-ai/openclaw-channel-plugin-ztm) — ZTM (Zero Trust Mesh) P2P messaging channel.
-
-## Literature Search & Discovery
-
-Tools and APIs for finding and discovering academic papers.
-
-- [Semantic Scholar](https://www.semanticscholar.org/) — AI-powered academic search engine; free API available.
-- [OpenAlex](https://openalex.org/) — Open catalog of the world's scholarly papers, authors, and institutions.
-- [arXiv](https://arxiv.org/) — Open-access preprint repository for STEM fields.
-- [Connected Papers](https://www.connectedpapers.com/) — Visual graph of papers related to a seed paper.
-- [Inciteful](https://inciteful.xyz/) — Citation network analysis for literature exploration.
-- [Litmaps](https://www.litmaps.com/) — Interactive citation maps for literature review.
-- [Google Scholar](https://scholar.google.com/) — Broad scholarly literature search.
-- [PubMed](https://pubmed.ncbi.nlm.nih.gov/) — Biomedical and life sciences literature database.
-- [Publish or Perish](https://harzing.com/resources/publish-or-perish) — Free desktop tool for citation analysis from Google Scholar.
-- [Scholarly](https://pypi.org/project/scholarly/) — Python library for Google Scholar scraping.
-
-## Citation & Reference Management
-
-Tools for managing references, citations, and bibliographies.
-
-- [Zotero](https://www.zotero.org/) — Free, open-source reference manager with browser integration.
-- [Mendeley](https://www.mendeley.com/) — Reference manager with academic social network features.
-- [EndNote](https://endnote.com/) — Professional reference management tool.
-- [CrossRef](https://www.crossref.org/) — DOI registration and metadata retrieval.
-- [DataCite](https://datacite.org/) — DOI registration for research data.
-
-## Experiment Tracking & Reproducibility
-
-Tools for tracking experiments, managing results, and ensuring reproducibility.
-
-- [MLflow](https://mlflow.org/) — Open-source platform for the ML lifecycle.
-- [Weights & Biases](https://wandb.ai/) — ML experiment tracking, dataset versioning, model management.
-- [DVC](https://dvc.org/) — Data Version Control for ML projects.
-- [Papers with Code](https://paperswithcode.com/) — Free resource linking papers, code, datasets, and benchmarks.
-
-## LaTeX & Writing Tools
-
-Tools for academic writing, LaTeX compilation, and document preparation.
-
-- [Overleaf](https://www.overleaf.com/) — Collaborative online LaTeX editor.
-- [LaTeX Workshop (VS Code)](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop) — Full-featured LaTeX extension for VS Code.
-- [Writefull](https://www.writefull.com/) — AI-powered academic writing feedback.
-- [Grammarly](https://www.grammarly.com/) — Writing assistant with grammar, clarity, and tone suggestions.
-
-## Data Sources & APIs
-
-APIs and data sources used by ResearchClaw for literature and citation data.
-
-| Source | Type | Access |
-|--------|------|--------|
-| [OpenAlex API](https://docs.openalex.org/) | Scholarly metadata | Free, open |
-| [Semantic Scholar API](https://api.semanticscholar.org/) | Paper search & citations | Free (rate-limited) |
-| [arXiv API](https://info.arxiv.org/help/api/) | Preprints | Free, open |
-| [CrossRef API](https://www.crossref.org/documentation/retrieve-metadata/) | DOI metadata | Free (polite pool) |
-| [DataCite API](https://support.datacite.org/docs/api) | Research data DOIs | Free |
-| [PubMed API (E-utilities)](https://www.ncbi.nlm.nih.gov/books/NBK25501/) | Biomedical literature | Free |
-| [CORE API](https://core.ac.uk/services/api) | Open access papers | Free |
-
 ## Community & Learning
 
 Resources for learning about AI-powered research and the ResearchClaw ecosystem.
@@ -176,16 +99,12 @@ Resources for learning about AI-powered research and the ResearchClaw ecosystem.
 ### Curated Lists
 
 - [Awesome AI Research Writing](https://github.com/Leey21/awesome-ai-research-writing) — Curated AI research writing resources and tools.
-- [Awesome Scientific Writing](https://github.com/writing-resources/awesome-scientific-writing) — Distraction-free scientific writing with Markdown, reStructuredText, and Jupyter.
 - [Awesome Research](https://github.com/emptymalei/awesome-research) — Research tools covering note-taking, writing, presentation, and more.
 
 ## Related Awesome Lists
 
 - [Awesome Claws](https://github.com/LHL3341/awesome-claws) — OpenClaw-related products, skills, communities.
 - [Awesome Research](https://github.com/emptymalei/awesome-research) — General research tools.
-- [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning) — Deep learning resources.
-- [Awesome Generative AI](https://github.com/steven2358/awesome-generative-ai) — Generative AI tools and resources.
-- [Papers We Love](https://github.com/papers-we-love/papers-we-love) — Papers from the CS community to read and discuss.
 
 ---
 
