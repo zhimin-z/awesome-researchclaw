@@ -15,7 +15,6 @@ ResearchClaw 是一个新兴的 AI 科研助手生态系统，涵盖自主论文
   - [通用 Research Agent / AI Scientist](#通用-research-agent--ai-scientist)
   - [Deep Research 与框架](#deep-research-与框架)
 - [社区与学习](#社区与学习)
-- [相关 Awesome 列表](#相关-awesome-列表)
 
 ---
 
@@ -36,8 +35,6 @@ ResearchClaw 是一个新兴的 AI 科研助手生态系统，涵盖自主论文
 | [PaperClaw](https://github.com/meowscles69/PaperClaw) ![Stars](https://img.shields.io/github/stars/meowscles69/PaperClaw?style=flat-square) | meowscles69 | △ | — | ✓ | — | — | 面向学术团队的 27 个技能，偏综述、假设版本管理、grant writing 和知识交接。 |
 | [scholar-skill](https://github.com/EESJGong/scholar-skill) ![Stars](https://img.shields.io/github/stars/EESJGong/scholar-skill?style=flat-square) | EESJGong | — | — | — | — | — | 面向学术阅读、知识链接、反思与 Obsidian 知识演化的 OpenClaw skill。 |
 | [openclaw-paper-tools](https://github.com/henry-y/openclaw-paper-tools) ![Stars](https://img.shields.io/github/stars/henry-y/openclaw-paper-tools?style=flat-square) | henry-y | — | — | — | — | — | 自动抓 HF Daily Papers，并一键送去 SwiftScholar 做深读。 |
-| [awesome-claws](https://github.com/LHL3341/awesome-claws) ![Stars](https://img.shields.io/github/stars/LHL3341/awesome-claws?style=flat-square) | LHL3341 | — | — | — | — | — | OpenClaw 相关产品、skills、社区和生态资源的导航索引。 |
-| [awesome-autoresearch](https://github.com/alvinunreal/awesome-autoresearch) ![Stars](https://img.shields.io/github/stars/alvinunreal/awesome-autoresearch?style=flat-square) | alvinunreal | — | — | — | — | — | Karpathy autoresearch 系分支、research agents、benchmarks 的高信号索引。 |
 | [scientify](https://github.com/tsingyuai/scientify) ![Stars](https://img.shields.io/github/stars/tsingyuai/scientify?style=flat-square) | tsingyuai | ✓ | △ | ✓ | ✓ | — | 强调"持续新陈代谢"的科研系统，持续跟论文、进化假设、跑验证并主动推送。 |
 | [OpenClaw-RL](https://github.com/Gen-Verse/OpenClaw-RL) ![Stars](https://img.shields.io/github/stars/Gen-Verse/OpenClaw-RL?style=flat-square) | Gen-Verse | — | — | — | ✓ | — | 把日常对话变成训练信号，异步强化学习个性化 OpenClaw 或通用 agent。 |
 | [ClawTeam-OpenClaw](https://github.com/win4r/ClawTeam-OpenClaw) ![Stars](https://img.shields.io/github/stars/win4r/ClawTeam-OpenClaw?style=flat-square) | win4r | — | — | — | △ | — | ClawTeam 的 OpenClaw 深度适配 fork，主打 swarm 协作、worktree 和 tmux 隔离。 |
@@ -91,16 +88,6 @@ ResearchClaw 是一个新兴的 AI 科研助手生态系统，涵盖自主论文
 - [AutoResearchClaw 测试指南](https://github.com/aiming-lab/AutoResearchClaw#-were-looking-for-testers) — 用你自己的研究想法试用流水线。
 - [ResearchClaw 快速上手](https://ymx10086.github.io/ResearchClaw/) — ResearchClaw 安装和使用的官方文档。
 - [AutoResearchClaw 集成指南](https://github.com/aiming-lab/AutoResearchClaw/blob/main/docs/integration-guide.md) — 与 OpenClaw、Claude Code、ACP 代理的集成。
-
-### 精选列表
-
-- [Awesome AI Research Writing](https://github.com/Leey21/awesome-ai-research-writing) — AI 科研写作资源和工具精选。
-- [Awesome Research](https://github.com/emptymalei/awesome-research) — 涵盖笔记、写作、演示等的研究工具。
-
-## 相关 Awesome 列表
-
-- [Awesome Claws](https://github.com/LHL3341/awesome-claws) — OpenClaw 相关产品、技能、社区。
-- [Awesome Research](https://github.com/emptymalei/awesome-research) — 通用研究工具。
 
 ---
 

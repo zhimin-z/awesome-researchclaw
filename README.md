@@ -14,7 +14,6 @@ ResearchClaw is an emerging ecosystem of AI-powered research assistants, autonom
 - [Research Agents & AI Scientists](#research-agents--ai-scientists)
 - [Deep Research & Frameworks](#deep-research--frameworks)
 - [Community & Learning](#community--learning)
-- [Related Awesome Lists](#related-awesome-lists)
 
 ---
 
@@ -35,8 +34,6 @@ Projects directly related to the OpenClaw ecosystem — core platforms, skill li
 | [PaperClaw](https://github.com/meowscles69/PaperClaw) ![Stars](https://img.shields.io/github/stars/meowscles69/PaperClaw?style=flat-square) | meowscles69 | △ | — | ✓ | — | — | 27 skills for academic teams — literature reviews, hypothesis versioning, grant writing, and knowledge handoffs. |
 | [scholar-skill](https://github.com/EESJGong/scholar-skill) ![Stars](https://img.shields.io/github/stars/EESJGong/scholar-skill?style=flat-square) | EESJGong | — | — | — | — | — | OpenClaw skill for academic reading, knowledge linking, reflection, and Obsidian knowledge evolution. |
 | [openclaw-paper-tools](https://github.com/henry-y/openclaw-paper-tools) ![Stars](https://img.shields.io/github/stars/henry-y/openclaw-paper-tools?style=flat-square) | henry-y | — | — | — | — | — | Auto-fetches HF Daily Papers and one-click deep reading via SwiftScholar. |
-| [Awesome Claws](https://github.com/LHL3341/awesome-claws) ![Stars](https://img.shields.io/github/stars/LHL3341/awesome-claws?style=flat-square) | LHL3341 | — | — | — | — | — | Curated index of OpenClaw-related products, skills, communities, and ecosystem resources. |
-| [awesome-autoresearch](https://github.com/alvinunreal/awesome-autoresearch) ![Stars](https://img.shields.io/github/stars/alvinunreal/awesome-autoresearch?style=flat-square) | alvinunreal | — | — | — | — | — | High-signal index of Karpathy autoresearch forks, research agents, and benchmarks. |
 | [Scientify](https://github.com/tsingyuai/scientify) ![Stars](https://img.shields.io/github/stars/tsingyuai/scientify?style=flat-square) | tsingyuai | ✓ | △ | ✓ | ✓ | — | "Continuous metabolism" research system — tracks papers, evolves hypotheses, runs validation, and pushes updates proactively. |
 | [OpenClaw-RL](https://github.com/Gen-Verse/OpenClaw-RL) ![Stars](https://img.shields.io/github/stars/Gen-Verse/OpenClaw-RL?style=flat-square) | Gen-Verse | — | — | — | ✓ | — | Turns daily conversations into training signal; async reinforcement learning to personalize OpenClaw or any agent. |
 | [ClawTeam-OpenClaw](https://github.com/win4r/ClawTeam-OpenClaw) ![Stars](https://img.shields.io/github/stars/win4r/ClawTeam-OpenClaw?style=flat-square) | win4r | — | — | — | △ | — | ClawTeam's deep-adapted OpenClaw fork — swarm coordination, worktree isolation, and tmux multi-agent management. |
@@ -92,16 +89,6 @@ Resources for learning about AI-powered research and the ResearchClaw ecosystem.
 - [AutoResearchClaw Testing Guide](https://github.com/aiming-lab/AutoResearchClaw#-were-looking-for-testers) — Try the pipeline with your own research idea.
 - [ResearchClaw Quick Start](https://ymx10086.github.io/ResearchClaw/) — Official docs for ResearchClaw setup and usage.
 - [AutoResearchClaw Integration Guide](https://github.com/aiming-lab/AutoResearchClaw/blob/main/docs/integration-guide.md) — Integrating with OpenClaw, Claude Code, ACP agents.
-
-### Curated Lists
-
-- [Awesome AI Research Writing](https://github.com/Leey21/awesome-ai-research-writing) — Curated AI research writing resources and tools.
-- [Awesome Research](https://github.com/emptymalei/awesome-research) — Research tools covering note-taking, writing, presentation, and more.
-
-## Related Awesome Lists
-
-- [Awesome Claws](https://github.com/LHL3341/awesome-claws) — OpenClaw-related products, skills, communities.
-- [Awesome Research](https://github.com/emptymalei/awesome-research) — General research tools.
 
 ---
 
